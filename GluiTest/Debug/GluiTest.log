@@ -1,0 +1,17 @@
+﻿生成启动时间为 2014/9/5 14:15:29。
+     1>项目“C:\Users\yy\documents\visual studio 2010\Projects\GluiTest\GluiTest\GluiTest.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“Debug\GluiTest.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         所有输出均为最新。
+         F:\VS\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\GluiTest.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Main.cpp Trim.cpp
+         Trim.cpp
+     1>c:\users\yy\documents\visual studio 2010\projects\gluitest\gluitest\trim.cpp(19): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "StdAfx.h"”?
+         Main.cpp
+     1>c:\users\yy\documents\visual studio 2010\projects\gluitest\gluitest\main.cpp(1087): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "StdAfx.h"”?
+         正在生成代码...
+     1>已完成生成项目“C:\Users\yy\documents\visual studio 2010\Projects\GluiTest\GluiTest\GluiTest.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:08.20

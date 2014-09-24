@@ -1,0 +1,136 @@
+﻿生成启动时间为 2014/9/11 21:45:23。
+     1>项目“C:\Users\yy\Documents\Visual Studio 2010\Projects\GluiTest\GluiTest\GluiTest.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Release\GluiTest.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         F:\VS\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D GLUT_BUILDING_LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Main.cpp
+         Main.cpp
+     1>Main.cpp(122): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 F:\VS\VC\include\string.h(105) : 参见“strcpy”的声明
+     1>Main.cpp(282): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 F:\VS\VC\include\string.h(197) : 参见“strtok”的声明
+     1>Main.cpp(283): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 F:\VS\VC\include\string.h(105) : 参见“strcpy”的声明
+     1>Main.cpp(283): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 F:\VS\VC\include\string.h(197) : 参见“strtok”的声明
+     1>Main.cpp(295): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 F:\VS\VC\include\string.h(105) : 参见“strcpy”的声明
+     1>Main.cpp(302): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 F:\VS\VC\include\string.h(197) : 参见“strtok”的声明
+     1>Main.cpp(303): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 F:\VS\VC\include\string.h(105) : 参见“strcpy”的声明
+     1>Main.cpp(303): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 F:\VS\VC\include\string.h(197) : 参见“strtok”的声明
+     1>Main.cpp(315): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 F:\VS\VC\include\string.h(105) : 参见“strcpy”的声明
+     1>Main.cpp(322): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 F:\VS\VC\include\string.h(197) : 参见“strtok”的声明
+     1>Main.cpp(323): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 F:\VS\VC\include\string.h(105) : 参见“strcpy”的声明
+     1>Main.cpp(323): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 F:\VS\VC\include\string.h(197) : 参见“strtok”的声明
+     1>Main.cpp(328): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 F:\VS\VC\include\string.h(197) : 参见“strtok”的声明
+     1>Main.cpp(331): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 F:\VS\VC\include\string.h(197) : 参见“strtok”的声明
+     1>Main.cpp(362): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 F:\VS\VC\include\string.h(197) : 参见“strtok”的声明
+     1>Main.cpp(365): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 F:\VS\VC\include\string.h(197) : 参见“strtok”的声明
+     1>Main.cpp(373): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 F:\VS\VC\include\string.h(197) : 参见“strtok”的声明
+     1>Main.cpp(379): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 F:\VS\VC\include\string.h(197) : 参见“strtok”的声明
+     1>Main.cpp(394): warning C4018: “<”: 有符号/无符号不匹配
+     1>Main.cpp(401): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 F:\VS\VC\include\string.h(197) : 参见“strtok”的声明
+     1>Main.cpp(404): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 F:\VS\VC\include\string.h(197) : 参见“strtok”的声明
+     1>Main.cpp(413): warning C4018: “<”: 有符号/无符号不匹配
+     1>Main.cpp(418): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 F:\VS\VC\include\string.h(197) : 参见“strtok”的声明
+     1>Main.cpp(423): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 F:\VS\VC\include\string.h(197) : 参见“strtok”的声明
+     1>Main.cpp(427): warning C4018: “<”: 有符号/无符号不匹配
+     1>Main.cpp(556): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 F:\VS\VC\include\stdio.h(371) : 参见“sprintf”的声明
+     1>Main.cpp(557): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 F:\VS\VC\include\stdio.h(371) : 参见“sprintf”的声明
+     1>Main.cpp(558): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 F:\VS\VC\include\stdio.h(371) : 参见“sprintf”的声明
+     1>Main.cpp(559): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 F:\VS\VC\include\stdio.h(371) : 参见“sprintf”的声明
+     1>Main.cpp(560): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 F:\VS\VC\include\stdio.h(371) : 参见“sprintf”的声明
+     1>Main.cpp(561): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 F:\VS\VC\include\stdio.h(371) : 参见“sprintf”的声明
+     1>Main.cpp(562): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 F:\VS\VC\include\stdio.h(371) : 参见“sprintf”的声明
+     1>Main.cpp(563): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 F:\VS\VC\include\stdio.h(371) : 参见“sprintf”的声明
+     1>Main.cpp(564): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 F:\VS\VC\include\stdio.h(371) : 参见“sprintf”的声明
+     1>Main.cpp(566): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 F:\VS\VC\include\stdio.h(371) : 参见“sprintf”的声明
+     1>Main.cpp(567): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 F:\VS\VC\include\stdio.h(371) : 参见“sprintf”的声明
+     1>Main.cpp(568): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 F:\VS\VC\include\stdio.h(371) : 参见“sprintf”的声明
+     1>Main.cpp(702): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 F:\VS\VC\include\string.h(197) : 参见“strtok”的声明
+     1>Main.cpp(703): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 F:\VS\VC\include\string.h(105) : 参见“strcpy”的声明
+     1>Main.cpp(703): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 F:\VS\VC\include\string.h(197) : 参见“strtok”的声明
+     1>Main.cpp(718): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 F:\VS\VC\include\string.h(197) : 参见“strtok”的声明
+     1>Main.cpp(723): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 F:\VS\VC\include\string.h(197) : 参见“strtok”的声明
+     1>Main.cpp(725): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 F:\VS\VC\include\string.h(197) : 参见“strtok”的声明
+     1>Main.cpp(726): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 F:\VS\VC\include\string.h(197) : 参见“strtok”的声明
+     1>Main.cpp(731): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 F:\VS\VC\include\string.h(197) : 参见“strtok”的声明
+     1>Main.cpp(732): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 F:\VS\VC\include\string.h(197) : 参见“strtok”的声明
+     1>Main.cpp(733): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 F:\VS\VC\include\string.h(197) : 参见“strtok”的声明
+     1>Main.cpp(737): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 F:\VS\VC\include\string.h(197) : 参见“strtok”的声明
+     1>Main.cpp(738): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 F:\VS\VC\include\string.h(197) : 参见“strtok”的声明
+     1>Main.cpp(739): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 F:\VS\VC\include\string.h(197) : 参见“strtok”的声明
+     1>Main.cpp(743): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 F:\VS\VC\include\string.h(197) : 参见“strtok”的声明
+     1>Main.cpp(744): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 F:\VS\VC\include\string.h(197) : 参见“strtok”的声明
+     1>Main.cpp(745): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 F:\VS\VC\include\string.h(197) : 参见“strtok”的声明
+     1>Main.cpp(755): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 F:\VS\VC\include\string.h(197) : 参见“strtok”的声明
+     1>Main.cpp(756): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 F:\VS\VC\include\string.h(197) : 参见“strtok”的声明
+     1>Main.cpp(765): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 F:\VS\VC\include\string.h(197) : 参见“strtok”的声明
+     1>Main.cpp(766): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 F:\VS\VC\include\string.h(197) : 参见“strtok”的声明
+       Link:
+         F:\VS\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\yy\Documents\Visual Studio 2010\Projects\GluiTest\Release\GluiTest.exe" /INCREMENTAL:NO /NOLOGO glui32.lib glut32.lib Opengl32.lib Glu32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\GluiTest.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\yy\Documents\Visual Studio 2010\Projects\GluiTest\Release\GluiTest.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\yy\Documents\Visual Studio 2010\Projects\GluiTest\Release\GluiTest.lib" /MACHINE:X86 Release\Main.obj
+         Release\stdafx.obj
+         Release\Trim.obj
+         正在生成代码
+         已完成代码的生成
+         GluiTest.vcxproj -> C:\Users\yy\Documents\Visual Studio 2010\Projects\GluiTest\Release\GluiTest.exe
+       Manifest:
+         c:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\yy\Documents\Visual Studio 2010\Projects\GluiTest\Release\GluiTest.exe;#1" /manifest Release\GluiTest.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Release\GluiTest.unsuccessfulbuild”。
+         正在对“Release\GluiTest.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Users\yy\Documents\Visual Studio 2010\Projects\GluiTest\GluiTest\GluiTest.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:26.75
