@@ -1,2 +1,2 @@
 # ObjReader
-.obj Model File Reader implemented by C++ 
+.Obj file reader implemented in C++
